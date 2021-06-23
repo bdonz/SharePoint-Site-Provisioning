@@ -1,5 +1,11 @@
 {
-  "verb": "applyTheme",
-  "themeName": "Blue Yonder"
-  
+    "$schema": "schema.json",
+    "actions": [
+        {
+            "verb": "applyTheme",
+            "themeName": "Blue Yonder"
+        }
+    ],
+    "bindata": { },
+    "version": 1
 }
