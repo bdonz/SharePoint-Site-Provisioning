@@ -26,7 +26,7 @@ $themepalette = @{
   "white"= "#ffffff"
 }
 
-#add new BDO Theme 
+#add new BDO Theme updated 
  Add-SPOTheme -Identity "BDO Insite DEV Theme" -Palette $themepalette -IsInverted $false
 #update
  Add-SPOTheme -Identity "BDO Insite DEV Theme" -Palette $themepalette -IsInverted $false -Overwrite
