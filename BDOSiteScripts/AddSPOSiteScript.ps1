@@ -79,3 +79,5 @@ Get-Content .\BDOSiteScripts\BDOSiteTheme001.json -Raw | Add-SPOSiteScript -Titl
 # Content             :
 # Version             : 0
 # IsSiteScriptPackage : False
+
+Get-SPOSiteScript
