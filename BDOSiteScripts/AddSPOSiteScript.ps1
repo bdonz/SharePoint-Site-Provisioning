@@ -81,3 +81,12 @@ Get-Content .\BDOSiteScripts\BDOSiteTheme001.json -Raw | Add-SPOSiteScript -Titl
 # IsSiteScriptPackage : False
 
 Get-SPOSiteScript
+
+# Id                  : 8770e7ca-bf28-4a30-a381-d76b0c2060d6
+# Title               : Automated creation of Site Design with BDO branding
+# Description         :
+# Content             :
+# Version             : 1
+# IsSiteScriptPackage : False
+
+Connect-SPOService
